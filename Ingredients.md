@@ -1,6 +1,6 @@
-**INGREDIENTS**
+# **INGREDIENTS**
 
-**Cake**
+## **Cake**
 
 *1) 1/2 cup (75 g) unbleached all-purpose flour*
 
@@ -16,7 +16,7 @@
 
 *7) 1 tsp (5 ml) white vinegar*
 
-**Chocolate Mousse**
+## **Chocolate Mousse**
 
 *1) 20 Oreo Biscuits*
 

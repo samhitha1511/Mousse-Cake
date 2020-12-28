@@ -1,13 +1,14 @@
-**PREPARATION**
+#**PREPARATION**
 
-**CAKE**
+##**CAKE**
+
 **step1-** With the rack in the middle position, preheat the oven to 350°F (180°C). Butter an 8-inch (20 cm) springform pan and line the bottom with parchment paper.
 
 **step2-** In a bowl, combine the dry ingredients. Stir in the water, oil and vinegar with a whisk until smooth. Spoon into the prepared pan.
 
 **step3-** Bake for 10 to 12 minutes or until a toothpick inserted into the centre of the cake comes out clean. Let cool on a wire rack. Do not unmould.
 
-**CHOCOLATE MOUSSE**
+##**CHOCOLATE MOUSSE**
 
 **step1-** Lightly grease a 9 inch springform baking tin with a little butter and set aside.
 

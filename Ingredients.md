@@ -1,6 +1,6 @@
-INGREDIENTS
+**INGREDIENTS**
 
-Cake
+*Cake*
 
 1/2 cup (75 g) unbleached all-purpose flour
 

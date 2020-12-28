@@ -20,7 +20,7 @@
 
  **step5-** Meanwhile, use an electric mixer to beat cream until stiff peaks form*. Gently fold cream into melted chocolate until smooth and combined. Pour over cookie crust. Place in the refrigerator to set for at least 4-6 hours or even better, overnight.
 
-**Assembly**
+## **Assembly**
 
 **step1-** Unmould the cake and place on a serving platter. If frozen, leave the cake at room temperature for 1 hour.
 
